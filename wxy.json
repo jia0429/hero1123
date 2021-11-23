@@ -1,0 +1,39 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2021,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "FLASH",
+      "age" : 11,
+      "secretIdentity" : "Joe John",
+      "powers" : [
+        "Teleport",
+        "Invincible",
+        "Time Freeze"
+      ]
+    },
+    {
+      "name" : "Electronic",
+      "age" : 57,
+      "secretIdentity" : "Thomson",
+      "powers" : [
+        "Zoom out",
+        "Time Freeze",
+        "Teleport"
+      ]
+    },
+    {
+      "name" : "Diamond",
+      "age" : 42,
+      "secretIdentity" : "Joz",
+      "powers" : [
+        "Hardening",
+        "Gleam",
+        "Scratch resistant"
+      ]
+    }
+  ]
+}
